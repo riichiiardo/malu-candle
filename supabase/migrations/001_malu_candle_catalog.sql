@@ -97,6 +97,16 @@ alter table public.customers enable row level security;
 alter table public.orders enable row level security;
 alter table public.order_items enable row level security;
 
+drop policy if exists "Public can view active products" on public.products;
+drop policy if exists "Public can view active variants" on public.product_variants;
+drop policy if exists "Public can view product images" on public.product_images;
+drop policy if exists "Public can view active categories" on public.categories;
+drop policy if exists "Public can view product categories" on public.product_categories;
+drop policy if exists "Customers can view own profile" on public.customers;
+drop policy if exists "Customers can update own profile" on public.customers;
+drop policy if exists "Customers can view own orders" on public.orders;
+drop policy if exists "Customers can view own order items" on public.order_items;
+
 create policy "Public can view active products" on public.products for select to anon, authenticated using (status = 'active');
 create policy "Public can view active variants" on public.product_variants for select to anon, authenticated using (active = true);
 create policy "Public can view product images" on public.product_images for select to anon, authenticated using (true);
