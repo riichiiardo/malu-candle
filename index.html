@@ -70,6 +70,20 @@
 
     <aside class="cart-drawer" id="cartDrawer" aria-hidden="true"><div class="cart-header"><h2>Carrito de compras</h2><button id="closeCart" aria-label="Cerrar carrito">×</button></div><div id="cartItems" class="cart-items"><p class="empty-cart">Tu carrito está vacío.</p></div><div class="cart-summary"><div><span>Total estimado</span><strong id="cartTotal">$0 COP</strong></div><button class="button button-primary" id="checkoutButton" disabled>Ir a pagar</button></div></aside><div class="drawer-backdrop" id="drawerBackdrop"></div>
     <a class="whatsapp" href="https://wa.me/573016231736" target="_blank" rel="noreferrer" aria-label="Escribir por WhatsApp">◔</a>
-    <script src="./app.js" type="module"></script>
+    <div class="product-modal" id="productModal" aria-hidden="true">
+      <div class="product-modal-card" role="dialog" aria-modal="true" aria-labelledby="detailName">
+        <button class="modal-close" id="closeProduct" aria-label="Cerrar detalle">×</button>
+        <div class="detail-media"><img id="detailImage" src="" alt="" /></div>
+        <div class="detail-copy">
+          <span class="eyebrow" id="detailCategory">Colección Malu Candle</span>
+          <h2 id="detailName"></h2><div class="detail-price" id="detailPrice"></div><p id="detailDescription"></p>
+          <label class="detail-label" for="detailFragrance">Fragancia</label>
+          <select id="detailFragrance"><option>Vainilla</option><option>Frutos rojos</option><option>Lavanda</option><option>Sin fragancia</option></select>
+          <div class="detail-quantity"><button id="decreaseQty" aria-label="Disminuir cantidad">−</button><output id="detailQty">1</output><button id="increaseQty" aria-label="Aumentar cantidad">+</button></div>
+          <button class="button button-primary detail-add" id="detailAdd">Agregar al carrito</button><small class="detail-meta">Hecha bajo pedido · preparación estimada de 3 a 5 días</small>
+        </div>
+      </div>
+    </div>
+    <script src="./app.js" defer></script>
   </body>
 </html>
