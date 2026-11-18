@@ -1,0 +1,2696 @@
+[
+  {
+    "id": "aromatizante-margarita",
+    "name": "Aromatizante Margarita",
+    "price": 25000,
+    "currency": "COP",
+    "category": "aromatiza cada espacio",
+    "categoryLabel": "Aromatiza cada espacio",
+    "image": "https://static.wixstatic.com/media/8491f5_63fb79e62378449ea7f4fe0bd0db1b2d~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_63fb79e62378449ea7f4fe0bd0db1b2d~mv2.jpeg",
+    "description": "🌼✨ Aromatizantes de Margaritas – Frescura floral para tus espacios Los Aromatizantes de Margaritas de Malu están inspirados en la suavidad, pureza y frescura de esta flor clásica. Su aroma delicado transforma cualquier ambiente en un espacio más limpio, alegre y armonioso, perfecto para quienes aman los aromas florales naturales y sutiles. Cada pieza está elaborada con esencias de alta calidad y materiales naturales que garantizan una fragancia duradera sin ser invasiva. Su diseño decorativo, inspirado en una margarita, aporta un toque elegante y encantador a cualquier rincón del hogar u oficina.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/aromatizante-margarita"
+  },
+  {
+    "id": "aromatizante-natural",
+    "name": "Aromatizante Natural",
+    "price": 20000,
+    "currency": "COP",
+    "category": "aromatiza cada espacio",
+    "categoryLabel": "Aromatiza cada espacio",
+    "image": "https://static.wixstatic.com/media/8491f5_15954a062c53405c8d99f14c893671b2~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_15954a062c53405c8d99f14c893671b2~mv2.jpeg",
+    "description": "🌿✨ Aromatizantes Naturales Malu – Fragancias puras que transforman tu espacio Los Aromatizantes Naturales de Malu están diseñados para llenar tus espacios de frescura, bienestar y armonía. Elaborados con esencias de alta calidad y bases naturales, cada aroma está pensado para crear ambientes más acogedores, relajantes o vibrantes según la esencia que elijas. Su formato elegante y compacto permite ubicarlos en cualquier lugar del hogar, oficina o negocio, ofreciendo una experiencia aromática duradera sin recurrir a químicos agresivos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/aromatizante-natural"
+  },
+  {
+    "id": "biberón",
+    "name": "Biberón",
+    "price": 35550,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_c8dc79dad640405eaff3e241560a5b14~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_c8dc79dad640405eaff3e241560a5b14~mv2.jpeg",
+    "description": "Haz de tu baby shower un momento aún más especial con nuestras hermosas velas de recordatorio. Un detalle delicado, lleno de amor y perfecto para agradecer a tus invitados por acompañarte en este momento tan importante. Ideales para decorar, regalar y dejar un recuerdo inolvidable lleno de luz y dulzura. Porque los momentos más especiales merecen detalles únicos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/biber%C3%B3n"
+  },
+  {
+    "id": "carriola",
+    "name": "Carriola",
+    "price": 38450,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_f6eb2b8c2cd644029b254f5180185088~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f6eb2b8c2cd644029b254f5180185088~mv2.jpg",
+    "description": "Haz de tu baby shower un momento aún más especial con nuestras hermosas velas de recordatorio. Un detalle delicado, lleno de amor y perfecto para agradecer a tus invitados por acompañarte en este momento tan importante. Ideales para decorar, regalar y dejar un recuerdo inolvidable lleno de luz y dulzura. Porque los momentos más especiales merecen detalles únicos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/carriola"
+  },
+  {
+    "id": "chupo",
+    "name": "Chupo",
+    "price": 35550,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_f6eb2b8c2cd644029b254f5180185088~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f6eb2b8c2cd644029b254f5180185088~mv2.jpg",
+    "description": "Haz de tu baby shower un momento aún más especial con nuestras hermosas velas de recordatorio. Un detalle delicado, lleno de amor y perfecto para agradecer a tus invitados por acompañarte en este momento tan importante. Ideales para decorar, regalar y dejar un recuerdo inolvidable lleno de luz y dulzura. Porque los momentos más especiales merecen detalles únicos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/chupo"
+  },
+  {
+    "id": "jirafa-recordatorios",
+    "name": "Jirafa Recordatorios",
+    "price": 24000,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_22f7868e1e4d445ba51fb8039826cbb9~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_22f7868e1e4d445ba51fb8039826cbb9~mv2.jpg",
+    "description": "Sofisticación en cada detalle. Esta vela redefine el concepto de decoración animalista con elegancia pura. El contraste perfecto para superficies de mármol o madera; una pieza de colección y picardía que captura todas las miradas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/jirafa-recordatorios"
+  },
+  {
+    "id": "león",
+    "name": "León Recordatorios",
+    "price": 23000,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_28597e12473e49c687473e46e9f9f89e~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_28597e12473e49c687473e46e9f9f89e~mv2.jpg",
+    "description": "Sofisticación en cada detalle. Esta vela redefine el concepto de decoración animalista con elegancia pura. El contraste perfecto para superficies de mármol o madera; una pieza de colección y picardía que captura todas las miradas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/le%C3%B3n"
+  },
+  {
+    "id": "margarita",
+    "name": "Margarita",
+    "price": 22000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_36b9500bc99e40beb875184796d8c05b~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_36b9500bc99e40beb875184796d8c05b~mv2.jpeg",
+    "description": "Captura la belleza de lo sencillo. Inspirada en la clásica flor margarita, símbolo de pureza, alegría y nuevos comienzos, esta vela decorativa aporta un toque fresco y delicado a cualquier espacio. Su diseño detallado resalta cada pétalo, logrando una pieza que combina arte y ternura en perfecta armonía. Ideal para decorar escritorios, mesas de noche, rincones especiales o para regalar a alguien que ama los detalles únicos y llenos de luz.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/margarita"
+  },
+  {
+    "id": "osito",
+    "name": "Osito",
+    "price": 34200,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_763085989b1149aaa27b88e18d2c1d82~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_763085989b1149aaa27b88e18d2c1d82~mv2.jpg",
+    "description": "Haz de tu baby shower un momento aún más especial con nuestras hermosas velas de recordatorio. Un detalle delicado, lleno de amor y perfecto para agradecer a tus invitados por acompañarte en este momento tan importante. Ideales para decorar, regalar y dejar un recuerdo inolvidable lleno de luz y dulzura. Porque los momentos más especiales merecen detalles únicos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/osito"
+  },
+  {
+    "id": "oso-bebé",
+    "name": "Oso Bebé",
+    "price": 22000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_bb9b9806dabb47f8bef2229e6138b3c1~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_bb9b9806dabb47f8bef2229e6138b3c1~mv2.jpeg",
+    "description": "Sofisticación en cada detalle. Esta vela redefine el concepto de decoración animalista con elegancia pura. El contraste perfecto para superficies de mármol o madera; una pieza de colección y picardía que captura todas las miradas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/oso-beb%C3%A9"
+  },
+  {
+    "id": "oso-recordatorios",
+    "name": "Oso Recordatorios",
+    "price": 24000,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_d5bf0154c08c403d8aff87f8e0e1c19c~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_d5bf0154c08c403d8aff87f8e0e1c19c~mv2.jpeg",
+    "description": "Sofisticación en cada detalle. Esta vela redefine el concepto de decoración animalista con elegancia pura. El contraste perfecto para superficies de mármol o madera; una pieza de colección y picardía que captura todas las miradas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/oso-recordatorios"
+  },
+  {
+    "id": "pie-bebé",
+    "name": "Pie Bebé",
+    "price": 37350,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_c2082ed964394aa5bb3e95c365b208c8~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_c2082ed964394aa5bb3e95c365b208c8~mv2.jpg",
+    "description": "Haz de tu baby shower un momento aún más especial con nuestras hermosas velas de recordatorio. Un detalle delicado, lleno de amor y perfecto para agradecer a tus invitados por acompañarte en este momento tan importante. Ideales para decorar, regalar y dejar un recuerdo inolvidable lleno de luz y dulzura. Porque los momentos más especiales merecen detalles únicos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/pie-beb%C3%A9"
+  },
+  {
+    "id": "sonajero",
+    "name": "Sonajero",
+    "price": 38200,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_17bae0cd2fa04362a44b74c6edbe37a2~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_17bae0cd2fa04362a44b74c6edbe37a2~mv2.jpg",
+    "description": "Haz de tu baby shower un momento aún más especial con nuestras hermosas velas de recordatorio. Un detalle delicado, lleno de amor y perfecto para agradecer a tus invitados por acompañarte en este momento tan importante. Ideales para decorar, regalar y dejar un recuerdo inolvidable lleno de luz y dulzura. Porque los momentos más especiales merecen detalles únicos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/sonajero"
+  },
+  {
+    "id": "virgen-de-guadalupe-recordatorios",
+    "name": "Virgen de Guadalupe Recordatorios",
+    "price": 26000,
+    "currency": "COP",
+    "category": "recordatorios",
+    "categoryLabel": "Recordatorios",
+    "image": "https://static.wixstatic.com/media/8491f5_ac8be4d7abb3456ab08a20c619d95089~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_ac8be4d7abb3456ab08a20c619d95089~mv2.jpg",
+    "description": "Sofisticación en cada detalle. Esta vela redefine el concepto de decoración animalista con elegancia pura. El contraste perfecto para superficies de mármol o madera; una pieza de colección y picardía que captura todas las miradas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/virgen-de-guadalupe-recordatorios"
+  },
+  {
+    "id": "fiesta-de-té-envasado",
+    "name": "Fiesta de Té Envasado",
+    "price": 92800,
+    "currency": "COP",
+    "category": "comidas",
+    "categoryLabel": "Comidas",
+    "image": "https://static.wixstatic.com/media/8491f5_6ae0414730554907bf2aac740d033343~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_6ae0414730554907bf2aac740d033343~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/fiesta-de-t%C3%A9-envasado"
+  },
+  {
+    "id": "waffles-envasado-x4",
+    "name": "Waffles Envasado x4",
+    "price": 56100,
+    "currency": "COP",
+    "category": "comidas",
+    "categoryLabel": "Comidas",
+    "image": "https://static.wixstatic.com/media/8491f5_1c527a4102d34c1fb4698d776c2624f6~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_1c527a4102d34c1fb4698d776c2624f6~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/waffles-envasado-x4"
+  },
+  {
+    "id": "bigotes",
+    "name": "Bigotes",
+    "price": 18000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_a3b366d065144bfbb05780df3590e272~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_a3b366d065144bfbb05780df3590e272~mv2.jpeg",
+    "description": "🐱✨ Vela Gato Bigotes – Malu Candle La elegancia felina hecha vela La vela Gato Bigotes de Malu Candle es una pieza encantadora inspirada en la figura delicada y enigmática de los gatos. Su diseño destaca por los bigotes finamente modelados, la silueta suave y su expresión serena, logrando una vela decorativa llena de personalidad y estilo. Hecha a mano con cera premium, esta vela combina arte y ternura, convirtiéndose en un accesorio perfecto para cualquier espacio: mesas de noche, escritorios, repisas o rincones especiales donde la presencia felina aporta armonía y belleza.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bigotes"
+  },
+  {
+    "id": "bulldog-frances",
+    "name": "BullDog Frances",
+    "price": 25000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_d1752700370d458baf4d7a74a9287c70~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_d1752700370d458baf4d7a74a9287c70~mv2.jpeg",
+    "description": "🐾✨ Vela Bulldog Francés – Malu Candle Ternura, estilo y carácter en una sola pieza La vela Bulldog Francés de Malu Candle es una creación encantadora que captura la personalidad irresistible de esta raza: dulce, elegante y llena de actitud. Su diseño detallado y realista la convierte en una pieza decorativa única, ideal para los amantes de los perritos y para quienes disfrutan de objetos que despiertan emociones y dan vida a los espacios. Elaborada a mano con cera premium, esta vela ofrece un acabado impecable que resalta cada detalle del rostro del bulldog, desde sus orejas puntiagudas hasta su expresión tierna e inolvidable.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bulldog-frances"
+  },
+  {
+    "id": "french-poodle",
+    "name": "French Poodle",
+    "price": 25000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_fa70473a500e4f849fef8f0bc8276216~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_fa70473a500e4f849fef8f0bc8276216~mv2.jpeg",
+    "description": "🐩✨ Vela French Poodle – Malu Candle Elegancia, dulzura y estilo en una sola vela artesanal La vela French Poodle de Malu Candle es una pieza encantadora que combina arte, ternura y diseño. Inspirada en la clásica silueta del french poodle, esta vela captura su elegancia natural, su pelaje esponjoso y su carácter dulce, convirtiéndose en una decoración ideal para quienes aman los perritos y los detalles delicados en su hogar. Cada vela está elaborada a mano con cera premium, logrando un acabado suave y detallado que resalta las formas del cuerpo, la textura del pelaje y su presencia elegante. Es una pieza decorativa perfecta para regalar o para añadir un toque sofisticado a cualquier espacio.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/french-poodle"
+  },
+  {
+    "id": "jirafa-bebé",
+    "name": "Jirafa Bebé",
+    "price": 22000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_c053a8c942d64b87906a8b841d5c6767~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_c053a8c942d64b87906a8b841d5c6767~mv2.jpg",
+    "description": "Sofisticación en cada detalle. Esta vela redefine el concepto de decoración animalista con elegancia pura. El contraste perfecto para superficies de mármol o madera; una pieza de colección y picardía que captura todas las miradas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/jirafa-beb%C3%A9"
+  },
+  {
+    "id": "león-bebé",
+    "name": "León Bebé",
+    "price": 21000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_71bb120a6c254abc84b049a4c880a842~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_71bb120a6c254abc84b049a4c880a842~mv2.jpeg",
+    "description": "Combina ternura, diseño y estilo en una sola pieza artesanal. Su forma inspirada en un pequeño león de facciones suaves y encantadoras la convierte en una vela perfecta para decorar habitaciones infantiles, regalar en ocasiones especiales o añadir un toque dulce y juguetón a cualquier espacio. Cada vela es elaborada a mano con cera premium, logrando un acabado impecable y detalles delicados como su melena redondeada, sus orejitas y su expresión amigable. Es una opción ideal para quienes buscan decoración adorable, temática animal o detalles especiales llenos de personalidad.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/le%C3%B3n-beb%C3%A9"
+  },
+  {
+    "id": "oso-romántico",
+    "name": "Oso Romántico",
+    "price": 73600,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_dd5475f57b064a8a823c6aa30b0289b9~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_dd5475f57b064a8a823c6aa30b0289b9~mv2.jpg",
+    "description": "Es una pieza encantadora que combina dulzura, elegancia y el espíritu romántico del amor. Su diseño artesanal, inspirado en un tierno oso entregando unas rosas de estilo decorativo, aporta calidez y personalidad a cualquier ambiente, convirtiéndose en un detalle perfecto para regalos especiales o ambientes temáticos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/oso-rom%C3%A1ntico"
+  },
+  {
+    "id": "selvatico",
+    "name": "Selvatico",
+    "price": 92400,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_9764573626174bbda01d4dca85e8e8db~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_9764573626174bbda01d4dca85e8e8db~mv2.jpg",
+    "description": "Lleva la magia de la selva a tu hogar con nuestra increíble vela decorativa inspirada en animales de safari. Un diseño único, lleno de detalles que la convierten en la pieza perfecta para los amantes de la naturaleza y la aventura. Ideal para decorar tus espacios y darles un toque exótico, cálido y lleno de personalidad. Más que una vela, es una experiencia que transforma tu ambiente.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible",
+    "sourceUrl": "https://www.malucandle.shop/product-page/selvatico"
+  },
+  {
+    "id": "tacita-de-té",
+    "name": "Tacita de Té",
+    "price": 30000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_26c03523c9e14c638c1bbcab9a6a98d1~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_26c03523c9e14c638c1bbcab9a6a98d1~mv2.jpeg",
+    "description": "🐶☕✨ Vela Perro Tacita de Té – Malu Candle Ternura en su máxima expresión, hecha vela La vela Perro Tacita de Té de Malu Candle es una pieza adorable diseñada para enamorar a primera vista. Inspirada en los encantadores perritos Tacita de Té, esta vela captura sus rasgos dulces, su mirada suave y su tamaño mini, convirtiéndose en un detalle perfecto para decorar, regalar o coleccionar. Elaborada a mano con cera premium, esta vela destaca por su acabado delicado y sus detalles realistas: las orejitas, la forma compacta y su postura tierna logran transmitir la esencia de un pequeño compañero peludo. Una opción ideal para quienes buscan una vela hermosa, única y llena de carácter.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/tacita-de-t%C3%A9"
+  },
+  {
+    "id": "yorkie",
+    "name": "Yorkie",
+    "price": 20000,
+    "currency": "COP",
+    "category": "mascotas",
+    "categoryLabel": "Mascotas",
+    "image": "https://static.wixstatic.com/media/8491f5_fd36bc3f777444698913d7bc98e93da3~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_fd36bc3f777444698913d7bc98e93da3~mv2.jpeg",
+    "description": "🐶✨ Vela Yorkie – Malu Candle Ternura y estilo en un diseño inspirado en el encantador Yorkshire Terrier La vela Yorkie de Malu Candle captura la dulzura, energía y elegancia del icónico Yorkshire Terrier. Su diseño escultórico, lleno de detalles en el pelaje y en la expresión tierna del rostro, convierte esta pieza en una vela decorativa única que enamora a primera vista. Elaborada cuidadosamente a mano con cera de alta calidad, esta vela no solo ilumina, sino que también decora y aporta personalidad a cualquier espacio. Es perfecta para amantes de los animales, coleccionistas o quienes buscan un regalo especial con un toque artístico.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/yorkie"
+  },
+  {
+    "id": "chocolatina",
+    "name": "Chocolatina",
+    "price": 13200,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_086c898c63c24fac99ed687f1c097dbf~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_086c898c63c24fac99ed687f1c097dbf~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/chocolatina"
+  },
+  {
+    "id": "flores-x-4",
+    "name": "Flores x 4",
+    "price": 14300,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_ed015bbab58e4928a85475d2b4dc9942~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_ed015bbab58e4928a85475d2b4dc9942~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/flores-x-4"
+  },
+  {
+    "id": "halloween-x-4",
+    "name": "Halloween x 4",
+    "price": 12100,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_78fe7517d659430d9c96ad3a82911b7f~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_78fe7517d659430d9c96ad3a82911b7f~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/halloween-x-4"
+  },
+  {
+    "id": "huellitas-x4",
+    "name": "Huellitas x4",
+    "price": 13200,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_56b10ab32d664b9796bbbc5a584f48ab~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_56b10ab32d664b9796bbbc5a584f48ab~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/huellitas-x4"
+  },
+  {
+    "id": "navidad-x-4",
+    "name": "Navidad x 4",
+    "price": 12100,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_b1f51e72b2134eb09703e18d545746bc~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_b1f51e72b2134eb09703e18d545746bc~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/navidad-x-4"
+  },
+  {
+    "id": "piñas-x6",
+    "name": "Piñas x6",
+    "price": 14300,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_062d30d88869424cbe7733290eea5ce3~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_062d30d88869424cbe7733290eea5ce3~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/pi%C3%B1as-x6"
+  },
+  {
+    "id": "rosas-x4",
+    "name": "Rosas x4",
+    "price": 13200,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_f02c0b07d919434aa1aa7d61a2b48f12~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f02c0b07d919434aa1aa7d61a2b48f12~mv2.jpg",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/rosas-x4"
+  },
+  {
+    "id": "waffles-x4",
+    "name": "Waffles x4",
+    "price": 13200,
+    "currency": "COP",
+    "category": "waxmelts",
+    "categoryLabel": "WaxMelts",
+    "image": "https://static.wixstatic.com/media/8491f5_e57d528b0c934459a90f8ff658200407~mv2.png/v1/fill/w_498,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_e57d528b0c934459a90f8ff658200407~mv2.png",
+    "description": "Descubre nuestros wax melts más deliciosos.Pequeños en tamaño, pero grandes en aroma. Perfectos para aromatizar tus espacios y llenarlos de sensaciones únicas que transforman cualquier rincón de tu hogar. Cada fragancia está diseñada para crear ambientes acogedores, especiales y llenos de magia. Déjate envolver por aromas que enamoran.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/waffles-x4"
+  },
+  {
+    "id": "cumpleaños-numerados",
+    "name": "Cumpleaños Numerados",
+    "price": 27000,
+    "currency": "COP",
+    "category": "feliz cumple",
+    "categoryLabel": "Feliz Cumple",
+    "image": "https://static.wixstatic.com/media/8491f5_0e9a996b7ba0419abb13656556f6a549~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_0e9a996b7ba0419abb13656556f6a549~mv2.jpg",
+    "description": "top of page Son el complemento perfecto para celebrar la vida, los logros y los nuevos comienzos. Diseñadas con un toque mágico de brillo y elegancia, estas velas convierten cualquier cumpleaños en un momento aún más especial. Su acabado detallado en forma de estrella y su número central hacen que cada vela sea un símbolo de alegría, prosperidad y buenos deseos. Ideal para decorar tortas, mesas de celebración o cajas de regalo personalizadas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/cumplea%C3%B1os-numerados"
+  },
+  {
+    "id": "estrellas-de-felicidad",
+    "name": "Estrellas de Felicidad",
+    "price": 12000,
+    "currency": "COP",
+    "category": "feliz cumple",
+    "categoryLabel": "Feliz Cumple",
+    "image": "https://static.wixstatic.com/media/8491f5_c7078f4478414b2cb1db4719d8348095~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_c7078f4478414b2cb1db4719d8348095~mv2.jpg",
+    "description": "⭐🎉 Vela “Estrellas de Felicidad” con Números – Celebra Cada Año con Luz y Magia Las velas “Estrellas de Felicidad” con números de Malu son el complemento perfecto para celebrar la vida, los logros y los nuevos comienzos. Diseñadas con un toque mágico de brillo y elegancia, estas velas convierten cualquier cumpleaños en un momento aún más especial. Su acabado detallado en forma de estrella y su número central hacen que cada vela sea un símbolo de alegría, prosperidad y buenos deseos. Ideal para decorar tortas, mesas de celebración o cajas de regalo personalizadas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/estrellas-de-felicidad"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy BirthDay Grande",
+    "price": 73000,
+    "currency": "COP",
+    "category": "feliz cumple",
+    "categoryLabel": "Feliz Cumple",
+    "image": "https://static.wixstatic.com/media/8491f5_6362d3211763432e9d080514a8b3cb5c~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_6362d3211763432e9d080514a8b3cb5c~mv2.jpeg",
+    "description": "🎉🕯️ Vela en Tarro de Vidrio de Cumpleaños – Celebra con Luz y Aroma La Vela en Tarro de Vidrio de Cumpleaños de Malu es el detalle perfecto para convertir cualquier celebración en un momento especial. Su diseño elegante y su aroma suave llenan el ambiente de calidez, haciendo que el cumpleaños se sienta aún más memorable. Cada vela está elaborada a mano con cera premium y viene en un hermoso tarro de vidrio resistente, ideal tanto para decorar como para conservar como recuerdo especial del día.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/happy-birthday"
+  },
+  {
+    "id": "happy-birthday-mediano",
+    "name": "Happy BirthDay Mediano",
+    "price": 41000,
+    "currency": "COP",
+    "category": "feliz cumple",
+    "categoryLabel": "Feliz Cumple",
+    "image": "https://static.wixstatic.com/media/8491f5_52aa7ffbfcb24c628f7acbd2c3821eda~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_52aa7ffbfcb24c628f7acbd2c3821eda~mv2.jpg",
+    "description": "🎉🕯️ Vela en Tarro de Vidrio de Cumpleaños – Celebra con Luz y Aroma La Vela en Tarro de Vidrio de Cumpleaños de Malu es el detalle perfecto para convertir cualquier celebración en un momento especial. Su diseño elegante y su aroma suave llenan el ambiente de calidez, haciendo que el cumpleaños se sienta aún más memorable. Cada vela está elaborada a mano con cera premium y viene en un hermoso tarro de vidrio resistente, ideal tanto para decorar como para conservar como recuerdo especial del día.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/happy-birthday-mediano"
+  },
+  {
+    "id": "happy-birthday-pequeño",
+    "name": "Happy BirthDay Pequeño",
+    "price": 36000,
+    "currency": "COP",
+    "category": "feliz cumple",
+    "categoryLabel": "Feliz Cumple",
+    "image": "https://static.wixstatic.com/media/8491f5_f4c3e2f00feb44eeb347041148f54059~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f4c3e2f00feb44eeb347041148f54059~mv2.jpg",
+    "description": "🎉🕯️ Vela en Tarro de Vidrio de Cumpleaños – Celebra con Luz y Aroma La Vela en Tarro de Vidrio de Cumpleaños de Malu es el detalle perfecto para convertir cualquier celebración en un momento especial. Su diseño elegante y su aroma suave llenan el ambiente de calidez, haciendo que el cumpleaños se sienta aún más memorable. Cada vela está elaborada a mano con cera premium y viene en un hermoso tarro de vidrio resistente, ideal tanto para decorar como para conservar como recuerdo especial del día.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/happy-birthday-peque%C3%B1o"
+  },
+  {
+    "id": "bola-rosa-grande",
+    "name": "Bola Flower Grande",
+    "price": 58300,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_1c32d50be5324f0e8def473087397352~mv2.png/v1/fill/w_498,h_373,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_1c32d50be5324f0e8def473087397352~mv2.png",
+    "description": "top of page Ir al contenido principal Deja que la elegancia florezca en tu hogar. Nuestra esfera de rosas rojas está diseñada para quienes aprecian los pequeños detalles que crean grandes atmósferas. Textura impecable, color intenso y una luz que abraza tus sentidos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-rosa-grande"
+  },
+  {
+    "id": "bola-flower",
+    "name": "Bola Flower Mediana",
+    "price": 25000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_7a08c1326c5344108e72aa3620790a2d~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_7a08c1326c5344108e72aa3620790a2d~mv2.jpeg",
+    "description": "Es una obra artesanal que combina la suavidad de las formas florales con un diseño esférico moderno y encantador. Cada pequeño pétalo tallado a mano crea un efecto visual delicado y armonioso, convirtiéndola en una vela decorativa ideal para realzar cualquier espacio con estilo y romanticismo. Fabricada con cera premium y acabados impecables, esta vela no solo ilumina, sino que se convierte en un punto focal lleno de belleza y equilibrio.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-flower"
+  },
+  {
+    "id": "copy-of-bola-rosas-pequeña",
+    "name": "Bola Flower Pequeña",
+    "price": 20000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_4a5cfc76fc924dbebc6d41a5576a6353~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_4a5cfc76fc924dbebc6d41a5576a6353~mv2.jpg",
+    "description": "top of page Deja que la elegancia florezca en tu hogar. Nuestra esfera de rosas rojas está diseñada para quienes aprecian los pequeños detalles que crean grandes atmósferas. Textura impecable, color intenso y una luz que abraza tus sentidos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/copy-of-bola-rosas-peque%C3%B1a"
+  },
+  {
+    "id": "bola-flower-set-x-3",
+    "name": "Bola Flower Set x 3",
+    "price": 129100,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_eb6dfe8f44be45f7ba837ca256e062a2~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_eb6dfe8f44be45f7ba837ca256e062a2~mv2.jpg",
+    "description": "top of page Deja que la elegancia florezca en tu hogar. Nuestras esferas de rosas están diseñadas para quienes aprecian los pequeños detalles que crean grandes atmósferas. Texturas impecables, colores intensos y una luz que abraza tus sentidos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-flower-set-x-3"
+  },
+  {
+    "id": "bouquet-de-flores-grande",
+    "name": "Bouquet de Flores Grande",
+    "price": 200000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_3fe38ff60f0243cabd0790df2203e63a~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_3fe38ff60f0243cabd0790df2203e63a~mv2.jpeg",
+    "description": "🌸✨ Vela Bouquet de Flores Grande – Arte floral hecho luz El Bouquet de Flores Grande de Malu Candles es una obra maestra de diseño artesanal. Cada pétalo, cada flor y cada detalle ha sido cuidadosamente moldeado a mano para crear una pieza única que combina elegancia, romanticismo y sofisticación. Su apariencia de gran arreglo floral la convierte en una vela perfecta para decorar espacios especiales, regalar en ocasiones memorables o crear ambientes llenos de belleza y armonía. Es una vela que no solo ilumina… también enamora.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bouquet-de-flores-grande"
+  },
+  {
+    "id": "bouquet-de-flores-pequeño",
+    "name": "Bouquet de Flores Pequeño",
+    "price": 83000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_044555070d154b878b642803afc67998~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_044555070d154b878b642803afc67998~mv2.jpeg",
+    "description": "🌷✨ Vela Bouquet de Flores Pequeño – Delicadeza que ilumina El Bouquet de Flores Pequeño de Malu Candles es una pieza delicada y encantadora, diseñada para quienes aman los detalles que transforman espacios. Su forma de pequeño ramo floral, elaborado cada pétalo a mano, la convierte en una vela única que combina belleza, ternura y elegancia. Perfecta para decorar mesas, habitaciones, escritorios o para regalar un gesto lleno de amor y significado.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bouquet-de-flores-peque%C3%B1o"
+  },
+  {
+    "id": "bouquet-flores-navidañas",
+    "name": "Bouquet Flores Navidañas",
+    "price": 221400,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_33c497cb880a41fab5f53c62ea3556e7~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_33c497cb880a41fab5f53c62ea3556e7~mv2.jpg",
+    "description": "Sorprende esta Navidad con un increíble bouquet diseñado para enamorar. El detalle perfecto para regalar amor, elegancia y calidez en una época tan especial. Cada bouquet está pensado para transmitir emociones, decorar con estilo y hacer de cada regalo algo inolvidable. Porque los mejores regalos no solo se dan… se sienten.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bouquet-flores-navida%C3%B1as"
+  },
+  {
+    "id": "flor-de-loto",
+    "name": "Flor de Loto",
+    "price": 24500,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_7d410935c5ee4440a6f98dfaf7d1281f~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_7d410935c5ee4440a6f98dfaf7d1281f~mv2.jpg",
+    "description": "Está inspirada en una de las flores más simbólicas del mundo: la flor de loto, reconocida por representar paz, armonía, pureza y renacimiento. Su diseño detallado imita la delicada apertura de los pétalos, creando una pieza decorativa elegante y serena que transforma cualquier espacio en un ambiente lleno de calma. Elaborada artesanalmente con cera de alta calidad, esta vela ofrece una combustión limpia y uniforme, convirtiéndose en un elemento perfecto tanto para decoración como para momentos de relajación y bienestar.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/flor-de-loto"
+  },
+  {
+    "id": "girasol",
+    "name": "Girasol",
+    "price": 22000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_b84a738ea1e1480e9af16bd041d4a900~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_b84a738ea1e1480e9af16bd041d4a900~mv2.jpg",
+    "description": "Cada una está cuidadosamente diseñada y acompañada de un detalle especial que las hace perfectas para regalar o decorar cualquier espacio. En la imagen puedes ver cómo un simple arreglo se convierte en un detalle único, lleno de color, ternura y significado. Los lazos, las tarjetas personalizadas y nuestros aromas increíbles hacen de cada vela una experiencia inolvidable.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/girasol"
+  },
+  {
+    "id": "osito-cariñosito",
+    "name": "Osito Cariñosito",
+    "price": 27000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_3e8b1ab423e849fb9c6d17efea9d1b0d~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_3e8b1ab423e849fb9c6d17efea9d1b0d~mv2.jpeg",
+    "description": "🧸✨ Vela Osito Cariñosito – Ternura que ilumina La vela Osito Cariñosito con moño de Malu Candles es una pieza creada para derretir corazones. Su diseño en forma de tierno osito, acompañado de un delicado moño en el pecho, convierte esta vela en el regalo perfecto para quienes aman los detalles dulces, especiales y llenos de sentimiento. El acabado suave y sus formas redondeadas la hacen ideal para decorar habitaciones infantiles, espacios románticos o rincones donde quieras agregar un toque de amor y calidez.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/osito-cari%C3%B1osito"
+  },
+  {
+    "id": "peonía",
+    "name": "Peonía Grande",
+    "price": 25500,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_03cd30c59a624344aada459d0384a6de~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_03cd30c59a624344aada459d0384a6de~mv2.jpeg",
+    "description": "Es una pieza decorativa que combina arte, elegancia y delicadeza. Inspirada en una de las flores más hermosas y simbólicas, esta vela representa prosperidad, amor y energía femenina, convirtiéndose en un elemento perfecto para transformar cualquier espacio en un rincón lleno de armonía y sofisticación. Cada pétalo ha sido elaborado a mano con gran detalle, logrando un acabado realista que la hace tan especial como una flor natural. Su diseño ornamental la convierte en un regalo ideal y en una pieza protagonista en mesas, repisas y rincones especiales.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/peon%C3%ADa"
+  },
+  {
+    "id": "peonía-pequeña",
+    "name": "Peonía Pequeña",
+    "price": 20000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_e566411f0a214cf0bdbcd72a25daab1c~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_e566411f0a214cf0bdbcd72a25daab1c~mv2.jpg",
+    "description": "top of page No es solo una vela, es una flor que nunca se marchita. Con un degradado artesanal de coral a rosa pálido, nuestra Peonía Tallada transforma el ritual de encender una luz en una experiencia de calma absoluta. Ideal para esos momentos donde el tiempo se detiene y la belleza florece.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/peon%C3%ADa-peque%C3%B1a"
+  },
+  {
+    "id": "rosa",
+    "name": "Rosa",
+    "price": 24000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_4ccdb769d211478abc9b87bc6aff32eb~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_4ccdb769d211478abc9b87bc6aff32eb~mv2.jpg",
+    "description": "Es una pieza decorativa inspirada en la belleza clásica de una rosa en pleno florecimiento. Su diseño detallado y artesanal captura la delicadeza de cada pétalo, creando una vela perfecta para regalar, decorar y llenar los espacios de romanticismo y armonía. Hecha con cera premium y acabados cuidadosamente elaborados, esta vela no solo adornará cualquier ambiente, sino que también se convertirá en un símbolo de amor, gratitud y belleza natural.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/rosa"
+  },
+  {
+    "id": "suculenta",
+    "name": "Suculenta",
+    "price": 21000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_7b22b8d68d1b411286987b16b11145da~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_7b22b8d68d1b411286987b16b11145da~mv2.jpeg",
+    "description": "Es una pieza decorativa que combina lo mejor del diseño natural con la suavidad y elegancia de nuestras velas artesanales. Inspirada en las plantas suculentas, esta vela recrea sus formas únicas y texturas delicadas, aportando frescura y armonía a cualquier espacio. Perfecta para quienes aman la naturaleza, la decoración minimalista o los detalles únicos que llaman la atención sin esfuerzo.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/suculenta"
+  },
+  {
+    "id": "tulipán",
+    "name": "Tulipán",
+    "price": 17000,
+    "currency": "COP",
+    "category": "siempre floral",
+    "categoryLabel": "Siempre Floral",
+    "image": "https://static.wixstatic.com/media/8491f5_9cbc06cbc259472cba54f5bf49a3d529~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_9cbc06cbc259472cba54f5bf49a3d529~mv2.jpeg",
+    "description": "🌷✨ Vela Tulipán – Delicadeza floral que transforma tus espacios La Vela Tulipán de Malu Candles es una pieza encantadora que captura la elegancia y simplicidad de una de las flores más apreciadas del mundo. Su forma cuidadosamente esculpida recrea los suaves pétalos del tulipán, convirtiéndola en un elemento decorativo perfecto para brindar luz, frescura y estilo a cualquier ambiente. Hecha artesanalmente con cera de alta calidad, esta vela no solo ilumina, sino que decora y enamora. Disponible en una variedad de tonos, es ideal para quienes buscan detalles sutiles y románticos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/tulip%C3%A1n"
+  },
+  {
+    "id": "buda",
+    "name": "Buda",
+    "price": 18000,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_eed6fff301a6455d930ad0c8b4dcb9f3~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_eed6fff301a6455d930ad0c8b4dcb9f3~mv2.jpeg",
+    "description": "🕯️✨ Vela Buda – Serenidad y luz para tu espacio La vela Buda de Malu es una pieza decorativa diseñada para transmitir paz, equilibrio y presencia espiritual. Su figura detallada inspira calma y conexión interior, convirtiéndola en un elemento ideal para crear ambientes armoniosos y llenos de intención. Elaborada en cera premium y moldeada con precisión, esta vela combina arte, simbolismo y decoración en un solo producto, perfecta para quienes buscan llenar su hogar de energía positiva, serenidad y belleza estética.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/buda"
+  },
+  {
+    "id": "casita-pascua",
+    "name": "Casita Pascua",
+    "price": 45500,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_25fcc17a867d418cabe0701cedc4cfe5~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_25fcc17a867d418cabe0701cedc4cfe5~mv2.jpg",
+    "description": "Desde el techo decorado hasta los pequeños adornos— está diseñado para crear una escena cálida, acogedora y llena de encanto. Es perfecta para acompañar tus momentos más especiales, no solo en Navidad, sino también en Pascua o como un hermoso elemento de decoración durante todo el año. Sus aromas increíbles transforman cualquier espacio en un lugar lleno de armonía y calidez",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/casita-pascua"
+  },
+  {
+    "id": "virgen-del-inmaculado-corazón",
+    "name": "Inmaculado Corazón",
+    "price": 40000,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_23bb7b84aa5243c9ab6916a1e68935b9~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_23bb7b84aa5243c9ab6916a1e68935b9~mv2.jpeg",
+    "description": "✨💙 Vela Virgen del Inmaculado Corazón – Luz de pureza, protección y amor maternal La Vela Virgen del Inmaculado Corazón de Malu es una creación espiritual y decorativa que representa la pureza, el amor infinito y la protección materna de la Virgen María. Su diseño detallado y elegante hace de esta pieza un símbolo perfecto para acompañar momentos de oración, agradecer bendiciones o pedir guía y fortaleza. El Inmaculado Corazón es reconocido por irradiar compasión, consuelo y esperanza, convirtiendo esta vela en una pieza especial para quienes desean llenar su hogar de paz y energía divina.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/virgen-del-inmaculado-coraz%C3%B3n"
+  },
+  {
+    "id": "la-última-cena",
+    "name": "La Última Cena",
+    "price": 70000,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_9b5840c2393d45a489d1a665111ab506~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_9b5840c2393d45a489d1a665111ab506~mv2.jpeg",
+    "description": "✨🕯️ Vela La Última Cena – Un símbolo de fe, unión y devoción La Vela La Última Cena de Malu es una pieza artística y espiritual que representa uno de los momentos más significativos de la tradición cristiana. Diseñada con un nivel de detalle excepcional, esta vela captura la esencia de la reunión entre Jesús y sus apóstoles, simbolizando unidad, gratitud, amor y fe profunda. Su acabado delicado la convierte en un elemento perfecto para crear espacios de oración, decorar altares o regalar en fechas religiosas como Semana Santa, Navidad, primeras comuniones y ceremonias especiales.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/la-%C3%BAltima-cena"
+  },
+  {
+    "id": "namaste",
+    "name": "Namaste",
+    "price": 17000,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_f38bd96bde5e4580a22a26c86adc9b25~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f38bd96bde5e4580a22a26c86adc9b25~mv2.jpeg",
+    "description": "🕯️✨ Vela Namaste – Inspirada en la serenidad del Buda La Vela Namaste de Malu es una pieza artística que invita a la calma, la introspección y el equilibrio interior. Inspirada en la figura del Buda, esta vela representa paz, armonía y conexión espiritual, convirtiéndose en el complemento perfecto para espacios de meditación, yoga y bienestar. Su esculpido detallado y su presencia elegante hacen de esta vela no solo un objeto decorativo, sino también un símbolo de iluminación y energía positiva.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/namaste"
+  },
+  {
+    "id": "sagrada-familia",
+    "name": "Sagrada Familia",
+    "price": 70000,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_a95795bd0bba44428becc56042e646af~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_a95795bd0bba44428becc56042e646af~mv2.jpeg",
+    "description": "Es una pieza creada para quienes desean llevar a su hogar un símbolo de amor, unión y protección divina. Inspirada en la figura de la Sagrada Familia, esta vela representa la guía espiritual, el acompañamiento y la luz que ilumina cada proyecto y cada camino. Su diseño detallado y delicado la convierte en una pieza decorativa perfecta para altares, mesas especiales, espacios de oración o como regalo significativo para momentos importantes como bautizos, primeras comuniones, matrimonios o Navidad.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/sagrada-familia"
+  },
+  {
+    "id": "virgen-de-guadalupe",
+    "name": "Virgen de Guadalupe",
+    "price": 25500,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_bdc247bb14b2476099a4528f8a1086d7~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_bdc247bb14b2476099a4528f8a1086d7~mv2.jpg",
+    "description": "Una delicada figura, con un diseño lleno de ternura y significado, perfecta para crear un ambiente cálido, armonioso y con estilo. Cada vela está hecha a mano con muchísimo amor, cuidando cada detalle para que no solo disfrutes de un aroma increíble, sino también de una pieza única que embellece cualquier espacio de tu hogar.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/virgen-de-guadalupe"
+  },
+  {
+    "id": "yin-yang",
+    "name": "Yin-Yang",
+    "price": 20000,
+    "currency": "COP",
+    "category": "enciende tu espíritu",
+    "categoryLabel": "Enciende tu Espíritu",
+    "image": "https://static.wixstatic.com/media/8491f5_2add8cfb75154c04bdee69d06042e1f1~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_2add8cfb75154c04bdee69d06042e1f1~mv2.jpeg",
+    "description": "☯️🕯️ Vela Yin–Yang – Equilibrio perfecto para tu espacio La Vela Yin–Yang de Malu representa la armonía entre las energías opuestas que se complementan: luz y sombra, calma y movimiento, lo femenino y lo masculino. Su diseño artístico captura la esencia del equilibrio universal, convirtiéndola en un símbolo poderoso para quienes buscan balance en su vida y en su hogar. Elaborada con cera de alta calidad y acabados delicados, esta vela combina estética moderna con significado profundo, ideal para decorar espacios con intención y estilo.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/yin-yang"
+  },
+  {
+    "id": "amor-de-pareja",
+    "name": "Amor de Pareja",
+    "price": 27500,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_2106a84bec7a4e7bb157eeeff7a2b2c1~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_2106a84bec7a4e7bb157eeeff7a2b2c1~mv2.jpg",
+    "description": "Es una vela escultórica que representa el abrazo íntimo entre dos figuras, unidas en un gesto de ternura y conexión profunda. Su diseño transmite armonía, amor puro y la belleza de compartir la vida con alguien especial. Elaborada a mano con cera 100% vegetal, esta vela no solo decora si no que también crea una atmósfera cálida y llena de intención. Es ideal para espacios románticos, regalos significativos o rituales donde se desee fortalecer los lazos de amor.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/amor-de-pareja"
+  },
+  {
+    "id": "apolo-11",
+    "name": "Apolo 11",
+    "price": 20900,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_08a52c0795724c7a9ba713ace89a3bbd~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_08a52c0795724c7a9ba713ace89a3bbd~mv2.jpg",
+    "description": "Es una pieza decorativa inspirada en la fascinación por el espacio y la magia de explorar nuevos mundos. Su diseño único presenta un tierno astronauta sentado sobre una pequeña luna, creando una escena encantadora que ilumina cualquier espacio con dulzura y nostalgia. Elaborada a mano con cera de soya 100% natural, esta vela no solo perfuma sutilmente el ambiente, sino que también se convierte en un detalle perfecto para regalar o para agregar un toque especial a tu decoración. Ideal para amantes del universo, coleccionistas, habitaciones infantiles, estudios creativos o para quienes buscan una vela fuera de lo común que transmita calma e inspiración.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/apolo-11"
+  },
+  {
+    "id": "babilonia-anudada",
+    "name": "Babilonia Anudada",
+    "price": 22000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_a6d93985f0814fbdac6d769d97803c56~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_a6d93985f0814fbdac6d769d97803c56~mv2.jpeg",
+    "description": "🕯️ Vela Babilonia Anudada – Malu Candle Arte, simbolismo y luz en una sola pieza La vela Babilonia Anudada de Malu Candle es una pieza decorativa creada para quienes aman los detalles llenos de significado. Su diseño inspirado en un nudo elegante y estilizado, representa unión, fortaleza interior y lazos que perduran. Fabricada artesanalmente con cera de alta calidad, esta vela destaca por su textura suave, su forma alargada y su presencia minimalista que embellece cualquier espacio: salas, habitaciones, mesas auxiliares o rincones especiales. Perfecta para regalar, decorar o crear ambientes cálidos y tranquilos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/babilonia-anudada"
+  },
+  {
+    "id": "bella-vendada",
+    "name": "Bella Vendada",
+    "price": 22000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_ee63010f19e94bdca6d493cfc0a4be32~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_ee63010f19e94bdca6d493cfc0a4be32~mv2.jpeg",
+    "description": "🕯️ Vela Bella Vendada – Malu Candle Arte, misterio y elegancia en una sola pieza. La Bella Vendada de Malu es una vela escultórica inspirada en la belleza clásica y en la fuerza interior que simboliza la intuición. Su diseño muestra el busto de una mujer con los ojos vendados y coronada con delicadas flores, representando la confianza, la serenidad y la conexión con el mundo interior. Cada pieza es elaborada artesanalmente con cera vegetal premium, logrando un acabado suave, definido y lleno de presencia. Disponible en tonos que aportan calidez o modernidad, esta vela es perfecta para decorar espacios, regalar o acompañar rituales personales de calma y energía.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bella-vendada"
+  },
+  {
+    "id": "bola-de-estambre",
+    "name": "Bola de Estambre",
+    "price": 19000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_0011a2de589f4035b0917ca2b6b7baf3~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_0011a2de589f4035b0917ca2b6b7baf3~mv2.jpeg",
+    "description": "🧶 Vela Bola de Estambre – Malu Candle Textura, calidez y diseño artesanal La Vela Bola de Estambre de Malu Candle es una pieza decorativa inspirada en la suavidad y la calidez del tejido hecho a mano. Su diseño único, que simula una madeja de estambre perfectamente enrollada, la convierte en un elemento ideal para crear ambientes acogedores y llenos de encanto. Elaborada con cera de soja 100% natural, esta vela ofrece una combustión limpia y una apariencia visual que destaca en cualquier estilo de decoración: minimalista, nórdico, boho o artesanal. Cada pieza es cuidadosamente hecha a mano, garantizando detalles perfectos y un acabado estético impecable.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-de-estambre"
+  },
+  {
+    "id": "bola-decorativa",
+    "name": "Bola Decorativa",
+    "price": 25200,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_f84c46219d8a4ca0aaa65355a0fc22e6~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f84c46219d8a4ca0aaa65355a0fc22e6~mv2.jpg",
+    "description": "Descubre nuestras hermosas velas diseñadas con mucho amor, creadas para llenar tu hogar de calidez, estilo y detalles únicos. Nuestras velas en forma redonda son versátiles, elegantes y perfectas para cualquier ocasión.Puedes utilizarlas como decoración navideña tipo bola de Navidad o para embellecer cualquier espacio de tu hogar durante todo el año. Cada pieza está pensada para transformar tus ambientes y hacerlos sentir más acogedores, especiales y llenos de magia.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-decorativa"
+  },
+  {
+    "id": "bola-plisada-grande",
+    "name": "Bola Plisada Grande",
+    "price": 170700,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_f8545cc17965426f928b8cbc9d060629~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f8545cc17965426f928b8cbc9d060629~mv2.jpg",
+    "description": "Cada una de nuestras velas en forma de remolino es única: grandes, imponentes y llenas de detalles que las convierten en el complemento perfecto para cualquier ambiente del hogar. Ideales para decorar, regalar o simplemente consentirte con un toque especial que transforma tus espacios. Déjate enamorar por la belleza de lo hecho a mano y crea ambientes que hablan de ti .",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-plisada-grande"
+  },
+  {
+    "id": "bola-plisada-mediana",
+    "name": "Bola Plisada Mediana",
+    "price": 73450,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_f8545cc17965426f928b8cbc9d060629~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_f8545cc17965426f928b8cbc9d060629~mv2.jpg",
+    "description": "Cada una de nuestras velas en forma de remolino es única: grandes, imponentes y llenas de detalles que las convierten en el complemento perfecto para cualquier ambiente del hogar. Ideales para decorar, regalar o simplemente consentirte con un toque especial que transforma tus espacios. Déjate enamorar por la belleza de lo hecho a mano y crea ambientes que hablan de ti .",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-plisada-mediana"
+  },
+  {
+    "id": "bola-remolino",
+    "name": "Bola Remolino Pequeña",
+    "price": 25000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_5af3d03263024cb38f737f024ea196ab~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_5af3d03263024cb38f737f024ea196ab~mv2.jpg",
+    "description": "Destaca por su diseño moderno y dinámico que simula un suave remolino en espiral. Su forma escultórica la convierte en un elemento decorativo ideal para quienes buscan objetos con estilo, movimiento y un toque minimalista. Elaborada con cera de soja 100% natural, esta vela ofrece una quema limpia, uniforme y sin toxinas. Cada pieza es vertida y detallada a mano, lo que asegura un acabado impecable y una textura suave que resalta la forma del remolino.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bola-remolino"
+  },
+  {
+    "id": "bubble-cylinder",
+    "name": "Bubble Cylinder",
+    "price": 29000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_784175da177147fd9742fd108fe4a5ee~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_784175da177147fd9742fd108fe4a5ee~mv2.jpeg",
+    "description": "🫧 Vela Bubble Cylinder – Malu Candle Diseño moderno que transforma cualquier espacio La Vela Bubble Cylinder de Malu es una pieza decorativa única que combina elegancia y diversión en un diseño cilíndrico lleno de burbujas en relieve. Su textura tridimensional hace que destaque en cualquier espacio, aportando un look moderno, artístico y lleno de carácter. Elaborada con cera de soja 100% natural, esta vela garantiza una combustión limpia, suave y libre de toxinas. Cada pieza es creada y detallada a mano, logrando un acabado impecable que realza las formas de sus burbujas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-cylinder"
+  },
+  {
+    "id": "bubble-gum",
+    "name": "Bubble Gum",
+    "price": 24000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_07ac09c4b7e949fdbd46339ec15fbbd7~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_07ac09c4b7e949fdbd46339ec15fbbd7~mv2.jpg",
+    "description": "💗 Vela Bubble Gum – Malu Candle Dulce, divertida y llena de estilo La Vela Bubble Gum de Malu Candle es una pieza decorativa diseñada para quienes aman los detalles tiernos, modernos y con un toque pop. Su apariencia inspirada en la estética del chicle —suavidad, color y volumen— la convierte en una vela única que transforma cualquier espacio con personalidad. Elaborada con cera de soja 100% natural, garantiza una combustión limpia, aroma delicado y un acabado visual impecable. Es perfecta para decorar escritorios, mesas, repisas, o para dar un toque inesperado en regalos especiales.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-gum"
+  },
+  {
+    "id": "bubble-heart",
+    "name": "Bubble Heart",
+    "price": 53700,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_0559b68618964e08aec5e5eabf9373e8~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_0559b68618964e08aec5e5eabf9373e8~mv2.jpg",
+    "description": "Cada detalle está cuidadosamente elaborado para crear una pieza única que no solo ilumina, sino que también decora y transmite emociones. Ideal para darle un toque especial a cualquier rincón de tu hogar, crear ambientes acogedores o sorprender con un regalo lleno de significado",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-heart"
+  },
+  {
+    "id": "bubble-pettit",
+    "name": "Bubble Pettit",
+    "price": 19300,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_36ab9436a09e4ac28a49df5a65e24cae~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_36ab9436a09e4ac28a49df5a65e24cae~mv2.jpg",
+    "description": "Es un ícono del diseño contemporáneo. Su forma cúbica compuesta por pequeñas burbujas la convierte en una pieza llamativa, divertida y elegante al mismo tiempo. Ideal para quienes buscan decorar con estilo, personalidad y un toque artístico. Elaborada cuidadosamente a mano con cera de soja natural, su combustión es limpia, suave y amigable con el medio ambiente. Su textura esculpida permite que cada ángulo cuente una historia visual distinta, haciendo que destaque en cualquier espacio.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-pettit"
+  },
+  {
+    "id": "bubble-pyramid",
+    "name": "Bubble Pyramid",
+    "price": 23100,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_8dafe21b2e754bb093cc320f54a0f9f3~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_8dafe21b2e754bb093cc320f54a0f9f3~mv2.jpg",
+    "description": "Es una pieza decorativa única que combina la suavidad de las burbujas con la elegancia de una forma piramidal. Su diseño geométrico la convierte en una vela artística y sofisticada, perfecta para quienes buscan elementos decorativos diferentes, modernos y con personalidad. Hecha a mano con cera de soja natural, su acabado suave y su textura en relieve la hacen un elemento visualmente cautivador desde cualquier ángulo. Es ideal para decorar espacios minimalistas, contemporáneos o estéticos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-pyramid"
+  },
+  {
+    "id": "bubble-square",
+    "name": "Bubble Square",
+    "price": 28600,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_3b380f87a00e410fafe37d611cd83395~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_3b380f87a00e410fafe37d611cd83395~mv2.jpg",
+    "description": "E un ícono del diseño contemporáneo. Su forma cúbica compuesta por pequeñas burbujas la convierte en una pieza llamativa, divertida y elegante al mismo tiempo. Ideal para quienes buscan decorar con estilo, personalidad y un toque artístico. Elaborada cuidadosamente a mano con cera de soja natural, su combustión es limpia, suave y amigable con el medio ambiente. Su textura esculpida permite que cada ángulo cuente una historia visual distinta, haciendo que destaque en cualquier espacio.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-square"
+  },
+  {
+    "id": "bubble-square-grande",
+    "name": "Bubble Square Grande",
+    "price": 109600,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_bb91f2cf86024018a1c42873e2fb9f75~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_bb91f2cf86024018a1c42873e2fb9f75~mv2.jpg",
+    "description": "La Vela Bubble Square de Malu es un ícono del diseño contemporáneo. Su forma cúbica compuesta por pequeñas burbujas la convierte en una pieza llamativa, divertida y elegante al mismo tiempo. Ideal para quienes buscan decorar con estilo, personalidad y un toque artístico. Elaborada cuidadosamente a mano con cera de soja natural, su combustión es limpia, suave y amigable con el medio ambiente. Su textura esculpida permite que cada ángulo cuente una historia visual distinta, haciendo que destaque en cualquier espacio.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-square-grande"
+  },
+  {
+    "id": "caballo-de-ajedrez",
+    "name": "Caballo de Ajedrez",
+    "price": 20000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_e943e5c065e34563b0482721aae09ca7~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_e943e5c065e34563b0482721aae09ca7~mv2.jpeg",
+    "description": "♞✨ Vela Caballo – Malu Candle Estrategia, fuerza y carácter en una pieza decorativa única La vela Caballo de Malu Candle está inspirada en una de las fichas más poderosas y sorprendentes del ajedrez: el caballo. Su diseño detallado, elegante y simbólico representa movimiento, inteligencia, decisión y la capacidad de avanzar incluso en los caminos más inesperados. Elaborada a mano con cera premium y acabados cuidadosamente moldeados, esta vela es ideal para quienes admiran el mundo del ajedrez, la decoración sofisticada y los objetos con significado. Perfecta para escritorios, bibliotecas, oficinas, salas u obsequios especiales cargados de intención.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/caballo-de-ajedrez"
+  },
+  {
+    "id": "casa-de-gengibre",
+    "name": "Casa de Gengibre",
+    "price": 49500,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_2b709c4a5ad34e379b101218bc2452f8~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_2b709c4a5ad34e379b101218bc2452f8~mv2.jpg",
+    "description": "Nuestra vela en forma de casa de jengibre es pura magia hecha a mano.Inspirada en los dulces y momentos más especiales de la temporada, esta vela no solo ilumina, sino que llena tus espacios de calidez, encanto y espíritu navideño. Perfecta para decorar cualquier rincón de tu hogar, crear ambientes acogedores y disfrutar de aromas increíbles que te transportan a la Navidad",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/casa-de-gengibre"
+  },
+  {
+    "id": "casita-navideña",
+    "name": "Casita Navideña",
+    "price": 44000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_8594f384a8264293a546fc29608f1f36~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_8594f384a8264293a546fc29608f1f36~mv2.jpg",
+    "description": "Es el detalle perfecto para crear una decoración elegante, armoniosa y llena de magia. Como ves en la imagen, combinadas con otros elementos, estas velas transforman cualquier espacio en una escena acogedora, cálida y completamente navideña. Sus aromas increíbles envuelven tu hogar y hacen de cada momento algo especial, perfecto para compartir en esta temporada",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/casita-navide%C3%B1a"
+  },
+  {
+    "id": "columna-rayada",
+    "name": "Columna Rayada",
+    "price": 61400,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_adb1d21604bc455588e44e94c06ac219~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_adb1d21604bc455588e44e94c06ac219~mv2.jpg",
+    "description": "Descubre nuestras hermosas velas diseñadas con mucho amor, creadas para llenar tu hogar de luz, estilo y armonía. Nuestras velas en forma de cilindro plisado tipo velón son piezas únicas, elegantes y con una textura especial que las hace destacar. Ideales para decorar cualquier ambiente del hogar y transformar tus espacios en lugares más acogedores, modernos y llenos de encanto. Cada vela está hecha con dedicación para aportar belleza en cada detalle y crear ambientes que enamoran.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/columna-rayada"
+  },
+  {
+    "id": "gran-arcoíris",
+    "name": "Gran Arcoíris",
+    "price": 31900,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_80585459bcdc49129d29625079993ba4~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_80585459bcdc49129d29625079993ba4~mv2.jpg",
+    "description": "Es una pieza decorativa creada para transformar cualquier ambiente en un rincón lleno de armonía, estilo y calidez. Su diseño moderno en forma de arco, con líneas suaves y textura delicada, la convierte en un elemento perfecto para decorar salas, dormitorios, estudios o espacios especiales de autocuidado. Hecha 100% de cera de soja natural, ofrece una combustión limpia y segura, ideal para quienes buscan productos artesanales, estéticos y amigables con el hogar. Cada vela es elaborada a mano, lo que la convierte en una pieza única llena de detalles.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/gran-arco%C3%ADris"
+  },
+  {
+    "id": "muelita",
+    "name": "Muelita",
+    "price": 25000,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_ea92d2f64c784d898ba250c114f84897~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_ea92d2f64c784d898ba250c114f84897~mv2.jpeg",
+    "description": "🦷✨ Vela Muela – Malu Candle Un diseño único para sonrisas que iluminan La vela Muela de Malu Candle es una pieza divertida, moderna y perfecta para quienes buscan un detalle diferente. Su diseño, inspirado en una muela real, la convierte en una opción encantadora para odontólogos, estudiantes de odontología, consultorios o amantes de los objetos curiosos. Elaborada artesanalmente con cera premium, su acabado limpio y compacto la hace ideal tanto para decoración como para regalo especial.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/muelita"
+  },
+  {
+    "id": "ondas-de-agua",
+    "name": "Ondas de Agua",
+    "price": 49550,
+    "currency": "COP",
+    "category": "decora tus espacios",
+    "categoryLabel": "Decora tus espacios",
+    "image": "https://static.wixstatic.com/media/8491f5_e09b90ea3c6342f2983ad62f2a573ff7~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_e09b90ea3c6342f2983ad62f2a573ff7~mv2.jpg",
+    "description": "Descubre nuestras hermosas velas diseñadas con mucho amor, creadas para llenar tu hogar de luz, estilo y armonía. Nuestras velas en forma de cilindro con movimiento de olas son únicas, elegantes y llenas de textura.Perfectas para decorar cualquier espacio del hogar y convertirlo en un ambiente acogedor, moderno y especial. Cada vela está pensada para aportar belleza en cada detalle y transformar tus espacios con un toque sutil pero imponente.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/ondas-de-agua"
+  },
+  {
+    "id": "escudo-fpc-medellín",
+    "name": "Escudo FPC - Medellín",
+    "price": 21000,
+    "currency": "COP",
+    "category": "pasión futbolera",
+    "categoryLabel": "Pasión Futbolera",
+    "image": "https://static.wixstatic.com/media/8491f5_332a7f283a2f44b0b39fda46a5d57939~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_332a7f283a2f44b0b39fda46a5d57939~mv2.jpeg",
+    "description": "⚽🔥 Vela Escudos de Fútbol – Malu CandleLa vela perfecta para los verdaderos hinchas La vela Escudos de Fútbol de Malu Candle es el regalo ideal para los apasionados del deporte rey. Diseñada con la silueta tridimensional de diferentes escudos emblemáticos, esta vela decorativa celebra la pasión, el orgullo y la emoción que une a millones de fanáticos alrededor del mundo. Hecha a mano con cera premium y detalles cuidadosamente logrados, esta vela es perfecta para personalizar espacios deportivos, hacer un regalo memorable o sorprender a un hincha con un detalle único y original.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/escudo-fpc-medell%C3%ADn"
+  },
+  {
+    "id": "copia-de-escudo-fpc-millonarios",
+    "name": "Escudo FPC - Millonarios",
+    "price": 21000,
+    "currency": "COP",
+    "category": "pasión futbolera",
+    "categoryLabel": "Pasión Futbolera",
+    "image": "https://static.wixstatic.com/media/8491f5_76142d352acf4f56b7b7bacf80950bef~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_76142d352acf4f56b7b7bacf80950bef~mv2.jpeg",
+    "description": "⚽🔥 Vela Escudos de Fútbol – Malu CandleLa vela perfecta para los verdaderos hinchas La vela Escudos de Fútbol de Malu Candle es el regalo ideal para los apasionados del deporte rey. Diseñada con la silueta tridimensional de diferentes escudos emblemáticos, esta vela decorativa celebra la pasión, el orgullo y la emoción que une a millones de fanáticos alrededor del mundo. Hecha a mano con cera premium y detalles cuidadosamente logrados, esta vela es perfecta para personalizar espacios deportivos, hacer un regalo memorable o sorprender a un hincha con un detalle único y original.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/copia-de-escudo-fpc-millonarios"
+  },
+  {
+    "id": "copia-de-copia-de-escudo-fpc-nacional",
+    "name": "Escudo FPC - Nacional",
+    "price": 21000,
+    "currency": "COP",
+    "category": "pasión futbolera",
+    "categoryLabel": "Pasión Futbolera",
+    "image": "https://static.wixstatic.com/media/8491f5_2a923ffcc6424a75933c4822e70ae05a~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_2a923ffcc6424a75933c4822e70ae05a~mv2.jpeg",
+    "description": "⚽🔥 Vela Escudos de Fútbol – Malu CandleLa vela perfecta para los verdaderos hinchas La vela Escudos de Fútbol de Malu Candle es el regalo ideal para los apasionados del deporte rey. Diseñada con la silueta tridimensional de diferentes escudos emblemáticos, esta vela decorativa celebra la pasión, el orgullo y la emoción que une a millones de fanáticos alrededor del mundo. Hecha a mano con cera premium y detalles cuidadosamente logrados, esta vela es perfecta para personalizar espacios deportivos, hacer un regalo memorable o sorprender a un hincha con un detalle único y original.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/copia-de-copia-de-escudo-fpc-nacional"
+  },
+  {
+    "id": "escudo-fpc-santa-fé",
+    "name": "Escudo FPC - Santa Fé",
+    "price": 21000,
+    "currency": "COP",
+    "category": "pasión futbolera",
+    "categoryLabel": "Pasión Futbolera",
+    "image": "https://static.wixstatic.com/media/8491f5_dffb038ab42a4f22aab7ddb7265acf44~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_dffb038ab42a4f22aab7ddb7265acf44~mv2.jpeg",
+    "description": "⚽🔥 Vela Escudos de Fútbol – Malu CandleLa vela perfecta para los verdaderos hinchas La vela Escudos de Fútbol de Malu Candle es el regalo ideal para los apasionados del deporte rey. Diseñada con la silueta tridimensional de diferentes escudos emblemáticos, esta vela decorativa celebra la pasión, el orgullo y la emoción que une a millones de fanáticos alrededor del mundo. Hecha a mano con cera premium y detalles cuidadosamente logrados, esta vela es perfecta para personalizar espacios deportivos, hacer un regalo memorable o sorprender a un hincha con un detalle único y original.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/escudo-fpc-santa-f%C3%A9"
+  },
+  {
+    "id": "arbol-navidad-flores",
+    "name": "Arbol Navidad Flores",
+    "price": 54400,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_48fe2a3817e14b7e92d8c1008b8b7e87~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_48fe2a3817e14b7e92d8c1008b8b7e87~mv2.jpg",
+    "description": "Nuestro árbol navideño con detalles florales es una pieza única que transforma cualquier espacio en un ambiente elegante, delicado y lleno de encanto.Una combinación perfecta entre lo clásico de la Navidad y la belleza de las flores, creando un estilo armonioso que enamora a primera vista. Sus aromas increíbles envuelven tu hogar, creando un ambiente cálido, acogedor y perfecto para vivir momentos especiales.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/arbol-navidad-flores"
+  },
+  {
+    "id": "arbol-navidad-remolino-grande",
+    "name": "Arbol Navidad Remolino Grande",
+    "price": 62500,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_9a3b0d5e1c644c48af80686b958d9606~mv2.jpeg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_9a3b0d5e1c644c48af80686b958d9606~mv2.jpeg",
+    "description": "Nuestra vela en forma de árbol navideño con diseño en remolino es una pieza única que combina elegancia, movimiento y estilo.Inspirada en los pinos y en la magia de la temporada, su forma delicada crea un efecto visual encantador que transforma cualquier espacio. Perfecta para decorar tu hogar y crear ambientes cálidos y acogedores, acompañados de aromas increíbles que hacen de cada momento algo especial.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/arbol-navidad-remolino-grande"
+  },
+  {
+    "id": "arbol-navidad-remolino-mediano",
+    "name": "Arbol Navidad Remolino Mediano",
+    "price": 47600,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_eafa3492259d4b09872aedb4bdca3be7~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_eafa3492259d4b09872aedb4bdca3be7~mv2.jpg",
+    "description": "Nuestra vela en forma de árbol navideño con diseño en remolino es una pieza única que combina elegancia, movimiento y estilo.Inspirada en los pinos y en la magia de la temporada, su forma delicada crea un efecto visual encantador que transforma cualquier espacio. Perfecta para decorar tu hogar y crear ambientes cálidos y acogedores, acompañados de aromas increíbles que hacen de cada momento algo especial.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/arbol-navidad-remolino-mediano"
+  },
+  {
+    "id": "arbol-navidad-remolino-pequeño",
+    "name": "Arbol Navidad Remolino Pequeño",
+    "price": 40000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_17ebc4f50fe54431bb4380ee7e597ce0~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_17ebc4f50fe54431bb4380ee7e597ce0~mv2.jpg",
+    "description": "Nuestra vela en forma de árbol navideño con diseño en remolino es una pieza única que combina elegancia, movimiento y estilo.Inspirada en los pinos y en la magia de la temporada, su forma delicada crea un efecto visual encantador que transforma cualquier espacio. Perfecta para decorar tu hogar y crear ambientes cálidos y acogedores, acompañados de aromas increíbles que hacen de cada momento algo especial.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/arbol-navidad-remolino-peque%C3%B1o"
+  },
+  {
+    "id": "bota-navideña",
+    "name": "Bota Navideña",
+    "price": 23000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_6d09ff11869e4aa3a734cc5305c464d1~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_6d09ff11869e4aa3a734cc5305c464d1~mv2.jpg",
+    "description": "Inspirada en los detalles clásicos de la temporada, esta pieza no solo ilumina, sino que aporta calidez, estilo y un encanto único a cualquier rincón de tu hogar. Con sus aromas increíbles y su diseño cuidadosamente elaborado, es perfecta para crear ambientes acogedores y llenos de espíritu navideño.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bota-navide%C3%B1a"
+  },
+  {
+    "id": "bouquet-navideño",
+    "name": "Bouquet Navideño",
+    "price": 200000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_cd30802a19d3453e8bf52bdf870cb193~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_cd30802a19d3453e8bf52bdf870cb193~mv2.jpg",
+    "description": "🎄✨ Vela Bouquet Grande Navideño – Elegancia y magia para esta Navidad La vela Bouquet Grande Navideño de Malu es una pieza escultórica que reúne la belleza de la Navidad en un arreglo único lleno de detalles. Su diseño artesanal, inspirado en un lujoso bouquet festivo, combina flores, hojas y elementos típicos de la temporada, creando una pieza sofisticada que ilumina y decora con un encanto especial. Cada pétalo, textura y volumen es cuidadosamente moldeado a mano, logrando un acabado realista y delicado que convierte esta vela en un centro de mesa perfecto o en un regalo inolvidable para quienes aman la decoración navideña.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bouquet-navide%C3%B1o"
+  },
+  {
+    "id": "bubble-square-navideño",
+    "name": "Bubble Square Navideño",
+    "price": 30000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_bb14204cee4646839b6f230f95794dbd~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_bb14204cee4646839b6f230f95794dbd~mv2.jpg",
+    "description": "El diseño icónico de la vela “bubble” en una pieza elegante y festiva perfecta para la temporada. Su forma geométrica de cubos esculpidos le da un estilo moderno y decorativo, mientras que sus tonos y detalles navideños llenan cualquier espacio de magia, calidez y espíritu decembrino. Elaborada artesanalmente con cera de alta calidad, esta vela es ideal para complementar tus decoraciones, ambientar reuniones especiales o convertirse en el regalo perfecto para quienes aman la Navidad.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/bubble-square-navide%C3%B1o"
+  },
+  {
+    "id": "cascanueces",
+    "name": "Cascanueces",
+    "price": 55500,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_bb97fe2e4c974e5c9e222f298d72dba6~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_bb97fe2e4c974e5c9e222f298d72dba6~mv2.jpg",
+    "description": "Es ese detalle icónico que transforma cualquier espacio en un ambiente lleno de magia y tradición.Como ves en la imagen, su diseño lleno de color y detalles la convierte en una pieza única que no solo ilumina, sino que decora con estilo. Perfecta para acompañar tus momentos más especiales, creando una atmósfera cálida con aromas increíbles que hacen de tu hogar un lugar aún más acogedor",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/cascanueces"
+  },
+  {
+    "id": "muñeco-de-navidad",
+    "name": "Muñeco de Navidad",
+    "price": 52000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_bde84e444c8d4e2ba1b9c523e100b9c1~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_bde84e444c8d4e2ba1b9c523e100b9c1~mv2.jpg",
+    "description": "Su diseño tierno y delicado lo convierte en una pieza única que ilumina y decora cualquier rincón de tu hogar. Esta vela es perfecta para crear ambientes cálidos, acogedores y llenos de espíritu navideño, acompañados de aromas increíbles que hacen de cada momento algo inolvidable.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/mu%C3%B1eco-de-navidad"
+  },
+  {
+    "id": "muñeco-de-nieve",
+    "name": "Muñeco de Nieve",
+    "price": 34750,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_b1acb106d85b4f6584be90f6dfd40c4b~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_b1acb106d85b4f6584be90f6dfd40c4b~mv2.jpg",
+    "description": "Haz de tus noches navideñas momentos aún más mágicos con nuestra increíble vela decorativa de muñeco de nieve. Un diseño tierno, único y perfecto para llenar tu hogar de calidez, luz y espíritu navideño. Ideal para decorar, compartir en familia y crear recuerdos inolvidables en esta época tan especial. Porque la Navidad se vive en cada detalle.",
+    "options": [
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/mu%C3%B1eco-de-nieve"
+  },
+  {
+    "id": "oso-polar",
+    "name": "Oso Polar",
+    "price": 25000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_fb745161db114d0b86e26761e93f424b~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_fb745161db114d0b86e26761e93f424b~mv2.jpg",
+    "description": "❄️🐻 Vela Oso Polar – Ternura invernal hecha vela La vela Oso Polar de Malu es una pieza encantadora que combina dulzura, elegancia y el espíritu acogedor del invierno. Su diseño artesanal, inspirado en un tierno oso polar de estilo decorativo, aporta calidez y personalidad a cualquier ambiente, convirtiéndose en un detalle perfecto para regalos especiales, decoración nórdica o ambientes temáticos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/oso-polar"
+  },
+  {
+    "id": "papá-noel",
+    "name": "Papá Noel",
+    "price": 30000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_ff4a2a73d76447f8b7dafc462204c479~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_ff4a2a73d76447f8b7dafc462204c479~mv2.jpg",
+    "description": "Su diseño encantador y lleno de detalles la convierte en una pieza única que ilumina y decora con un toque mágico. Además de su belleza, sus aromas increíbles crean un ambiente acogedor ideal para compartir momentos especiales en esta temporada.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/pap%C3%A1-noel"
+  },
+  {
+    "id": "papá-noel-sentado",
+    "name": "Papá Noel Sentado",
+    "price": 60000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_456b42d9489843df88ab1aac21bc5016~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_456b42d9489843df88ab1aac21bc5016~mv2.jpg",
+    "description": "Imagina a Papá Noel descansando en su silla, esperando con ilusión la llegada de los niños. Más que una vela, es una pieza llena de encanto que transforma cualquier espacio en un rincón cálido, acogedor y lleno de espíritu navideño. Perfecta para decorar tu hogar y crear momentos inolvidables junto a quienes más amas.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/pap%C3%A1-noel-sentado"
+  },
+  {
+    "id": "poinsettia-flor-de-pascua",
+    "name": "Poinsettia (Flor de Pascua)",
+    "price": 27700,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_cfb1f1803d984767a0dca5864e0a1d91~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_cfb1f1803d984767a0dca5864e0a1d91~mv2.jpg",
+    "description": "Estas velas no solo iluminan, sino que transforman tu hogar en un espacio cálido, acogedor y lleno de espíritu navideño. Con sus formas únicas y colores inspirados en la Navidad, son el complemento perfecto para decorar tu mesa, tu sala o ese rincón especial donde se crean los mejores momentos.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/poinsettia-flor-de-pascua"
+  },
+  {
+    "id": "rodolfo",
+    "name": "Rodolfo",
+    "price": 28000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_b0b7658623774a53b59982b758695801~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_b0b7658623774a53b59982b758695801~mv2.jpg",
+    "description": "Captura toda la dulzura y el encanto del personaje más querido de la Navidad. Con su inconfundible naricita y detalles hechos a mano, esta vela se convierte en una pieza decorativa encantadora que ilumina y llena de alegría cualquier espacio durante la temporada festiva. Perfecta para regalar, decorar mesas, complementar arreglos navideños o simplemente añadir un toque tierno y cálido a tu hogar.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/rodolfo"
+  },
+  {
+    "id": "árbol-de-navidad-clásico",
+    "name": "Árbol de Navidad Clásico",
+    "price": 37700,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_3b87edca49384163afefaa4a9ff73199~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_3b87edca49384163afefaa4a9ff73199~mv2.jpg",
+    "description": "Nuestra vela en forma de árbol navideño, con su silueta delgada inspirada en los pinos, es el toque perfecto para llenar tu hogar de elegancia y espíritu navideño. Su diseño estilizado no solo decora, sino que crea ambientes cálidos y acogedores, acompañados de aromas increíbles que hacen de cada momento algo especial",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Honduras",
+    "sourceUrl": "https://www.malucandle.shop/product-page/%C3%A1rbol-de-navidad-cl%C3%A1sico"
+  },
+  {
+    "id": "árbol-de-navidad-grande",
+    "name": "Árbol de Navidad Grande",
+    "price": 27500,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_e037c1a4d6f1463ab6e3e022c0298c66~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_e037c1a4d6f1463ab6e3e022c0298c66~mv2.jpg",
+    "description": "Está inspirada en la calidez, la luz y el encanto de la temporada navideña. Su delicada forma de árbol, acompañada de detalles cuidadosamente trabajados, convierte esta vela en una pieza decorativa ideal para iluminar tus espacios durante el mes más mágico del año. Perfecta para centros de mesa, arreglos navideños, regalos especiales o rincones acogedores, esta vela agrega un toque de armonía y espíritu festivo en cualquier hogar.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/%C3%A1rbol-de-navidad-grande"
+  },
+  {
+    "id": "árbol-de-navidad-mediano",
+    "name": "Árbol de Navidad Mediano",
+    "price": 24000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_525cbfea932d42f29a602939b6e450ab~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_525cbfea932d42f29a602939b6e450ab~mv2.jpg",
+    "description": "🎄✨ Vela Árboles de Navidad – Magia festiva en cada detalle La vela Árboles de Navidad de Malu está inspirada en la calidez, la luz y el encanto de la temporada navideña. Su delicada forma de árbol, acompañada de detalles cuidadosamente trabajados, convierte esta vela en una pieza decorativa ideal para iluminar tus espacios durante el mes más mágico del año. Perfecta para centros de mesa, arreglos navideños, regalos especiales o rincones acogedores, esta vela agrega un toque de armonía y espíritu festivo en cualquier hogar.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/%C3%A1rbol-de-navidad-mediano"
+  },
+  {
+    "id": "árbol-de-navidad",
+    "name": "Árbol de Navidad Pequeño",
+    "price": 23000,
+    "currency": "COP",
+    "category": "enciende la navidad",
+    "categoryLabel": "Enciende la Navidad",
+    "image": "https://static.wixstatic.com/media/8491f5_dc5e3ee3233b4d55ab3a1564b63bab13~mv2.jpg/v1/fill/w_498,h_373,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_dc5e3ee3233b4d55ab3a1564b63bab13~mv2.jpg",
+    "description": "🎄✨ Vela Árboles de Navidad – Magia festiva en cada detalle La vela Árboles de Navidad de Malu está inspirada en la calidez, la luz y el encanto de la temporada navideña. Su delicada forma de árbol, acompañada de detalles cuidadosamente trabajados, convierte esta vela en una pieza decorativa ideal para iluminar tus espacios durante el mes más mágico del año. Perfecta para centros de mesa, arreglos navideños, regalos especiales o rincones acogedores, esta vela agrega un toque de armonía y espíritu festivo en cualquier hogar.",
+    "options": [
+      {
+        "label": "Fragancia",
+        "values": []
+      },
+      {
+        "label": "Color",
+        "values": []
+      },
+      {
+        "label": "Cantidad",
+        "values": []
+      }
+    ],
+    "availability": "Disponible · Colombia",
+    "sourceUrl": "https://www.malucandle.shop/product-page/%C3%A1rbol-de-navidad"
+  }
+]
