@@ -1,89 +1,19 @@
 <!doctype html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Malu Candle: velas artesanales y personalizadas para celebrar lo que sientes." />
-    <title>Malu Candle — Velas hechas para celebrar</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="./styles.css" />
-  </head>
-  <body>
-    <div class="announcement">🏷️ 5% de descuento en tu primera compra</div>
-    <header class="site-header">
-      <a class="brand" href="#inicio" aria-label="Malu Candle inicio">Malu Candle</a>
-      <button class="menu-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
-      <nav class="main-nav" aria-label="Navegación principal">
-        <a class="active" href="#inicio">Inicio</a>
-        <a href="#comprar">Comprar</a>
-        <a href="#colecciones">Colecciones</a>
-        <a href="#personaliza">Personaliza</a>
-        <a href="#nosotros">Nosotros</a>
-      </nav>
-      <div class="header-actions">
-        <button class="icon-button" aria-label="Buscar" id="searchButton">⌕</button>
-        <button class="icon-button" aria-label="Abrir carrito" id="cartButton">🛒 <span class="cart-count">0</span></button>
-      </div>
-    </header>
-
-    <main id="inicio">
-      <section class="hero section-shell">
-        <div class="hero-copy">
-          <span class="eyebrow">Velas artesanales · Hechas en Colombia</span>
-          <h1>Velas hechas para celebrar lo que sientes</h1>
-          <p>Velas artesanales y personalizadas que transforman momentos, espacios y emociones en recuerdos únicos.</p>
-          <div class="hero-actions">
-            <a class="button button-primary" href="#comprar">Explorar colección</a>
-            <a class="text-link" href="#personaliza">Personaliza tu vela <span>→</span></a>
-          </div>
-        </div>
-        <div class="hero-art" role="img" aria-label="Velas decorativas artesanales en tonos pastel">
-          <div class="candle candle-bubble"></div><div class="candle candle-twist"></div><div class="candle candle-arch"></div><div class="candle candle-knot"></div>
-          <span class="flame flame-a"></span><span class="flame flame-b"></span><span class="flame flame-c"></span><span class="flame flame-d"></span>
-        </div>
-      </section>
-
-      <section class="section-shell" id="colecciones">
-        <div class="section-heading"><h2>Compra por ocasión</h2><span class="spark">✦</span></div>
-        <div class="occasion-grid">
-          <button class="occasion-card occasion-birthday" data-category="cumpleanos"><span>Cumpleaños</span></button>
-          <button class="occasion-card occasion-home" data-category="hogar"><span>Hogar</span></button>
-          <button class="occasion-card occasion-gifts" data-category="regalos"><span>Regalos</span></button>
-          <button class="occasion-card occasion-christmas" data-category="navidad"><span>Navidad</span></button>
-        </div>
-      </section>
-
-      <section class="section-shell" id="comprar">
-        <div class="section-heading product-heading"><div><h2>Más elegidas</h2><p>Diseños que hacen especial cualquier rincón.</p></div><span class="heart">♡</span></div>
-        <div class="shop-toolbar"><div class="filter-pills" id="filterPills"><button class="pill active" data-filter="all">Todas</button><button class="pill" data-filter="cumpleanos">Cumpleaños</button><button class="pill" data-filter="hogar">Hogar</button><button class="pill" data-filter="regalos">Regalos</button></div><label class="search-field">⌕ <input id="searchInput" type="search" placeholder="Buscar velas" /></label></div>
-        <div class="product-grid" id="productGrid"></div>
-      </section>
-
-      <section class="trust-strip section-shell"><div><b>♧</b><span><strong>Hechas a mano</strong><small>Cada pieza es única</small></span></div><div><b>▱</b><span><strong>Envíos en Colombia</strong><small>Preparamos tu pedido con cuidado</small></span></div><div><b>♢</b><span><strong>Compra segura</strong><small>Acompañamiento por WhatsApp</small></span></div></section>
-
-      <section class="customize section-shell" id="personaliza"><div><span class="eyebrow">Tu idea, nuestra cera</span><h2>Hazla tuya desde el color hasta la fragancia.</h2><p>Cuéntanos para quién es, qué quieres celebrar y qué aroma imaginas. Te ayudamos a crear una vela con intención.</p><a class="button button-dark" href="mailto:malu.candles.col@gmail.com">Hablar con Malu</a></div><div class="customize-note"><span>01</span><p>Elige tu forma</p><span>02</span><p>Combina color y aroma</p><span>03</span><p>Recíbela hecha para ti</p></div></section>
-    </main>
-
-    <footer id="nosotros"><div class="footer-brand">Malu Candle <small>un mundo de velas artesanales</small></div><div><a href="mailto:malu.candles.col@gmail.com">malu.candles.col@gmail.com</a><a href="https://www.instagram.com/malu_candles_col" target="_blank" rel="noreferrer">Instagram</a></div><div><a href="tel:+573016231736">+57 301 623 1736</a><a href="https://wa.me/573016231736" target="_blank" rel="noreferrer">WhatsApp</a></div></footer>
-
-    <aside class="cart-drawer" id="cartDrawer" aria-hidden="true"><div class="cart-header"><h2>Carrito de compras</h2><button id="closeCart" aria-label="Cerrar carrito">×</button></div><div id="cartItems" class="cart-items"><p class="empty-cart">Tu carrito está vacío.</p></div><div class="cart-summary"><div><span>Total estimado</span><strong id="cartTotal">$0 COP</strong></div><button class="button button-primary" id="checkoutButton" disabled>Ir a pagar</button></div></aside><div class="drawer-backdrop" id="drawerBackdrop"></div>
-    <a class="whatsapp" href="https://wa.me/573016231736" target="_blank" rel="noreferrer" aria-label="Escribir por WhatsApp">◔</a>
-    <div class="product-modal" id="productModal" aria-hidden="true">
-      <div class="product-modal-card" role="dialog" aria-modal="true" aria-labelledby="detailName">
-        <button class="modal-close" id="closeProduct" aria-label="Cerrar detalle">×</button>
-        <div class="detail-media"><img id="detailImage" src="" alt="" /></div>
-        <div class="detail-copy">
-          <span class="eyebrow" id="detailCategory">Colección Malu Candle</span>
-          <h2 id="detailName"></h2><div class="detail-price" id="detailPrice"></div><p id="detailDescription"></p>
-          <label class="detail-label" for="detailFragrance">Fragancia</label>
-          <select id="detailFragrance"><option>Vainilla</option><option>Frutos rojos</option><option>Lavanda</option><option>Sin fragancia</option></select>
-          <div class="detail-quantity"><button id="decreaseQty" aria-label="Disminuir cantidad">−</button><output id="detailQty">1</output><button id="increaseQty" aria-label="Aumentar cantidad">+</button></div>
-          <button class="button button-primary detail-add" id="detailAdd">Agregar al carrito</button><small class="detail-meta">Hecha bajo pedido · preparación estimada de 3 a 5 días</small>
-        </div>
-      </div>
-    </div>
-    <script src="./app.js" defer></script>
-  </body>
-</html>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Malu Candle — velas artesanales para celebrar, decorar y recordar."><title>Malu Candle — Velas artesanales</title><link rel="icon" href="https://static.wixstatic.com/media/8491f5_dff647a2a37448e7beee6e64f4186c0c~mv2.png"><link rel="stylesheet" href="./styles.css"></head>
+<body>
+<div class="announcement">Envíos en Colombia · piezas hechas bajo pedido</div>
+<header class="site-header"><a class="brand" href="#inicio"><img src="https://static.wixstatic.com/media/8491f5_e1fbc29d9a4a451da2b92f2301a32bab~mv2.png/v1/fill/w_261,h_135,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8491f5_e1fbc29d9a4a451da2b92f2301a32bab~mv2.png" alt="Malu Candle — Logo positivo"></a><button class="menu-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button><nav class="main-nav"><a href="#novedades">Novedades</a><a href="#comprar">Productos</a><a href="#colecciones">Colecciones</a><a href="#proceso">Nuestro mundo</a><a href="#servicio">Servicio</a></nav><div class="header-actions"><button id="searchButton">Buscar</button><a href="#personaliza">Personaliza</a><button id="cartButton">Carrito (<span class="cart-count">0</span>)</button></div></header>
+<main id="inicio">
+<section class="hero" id="novedades"><div class="hero-image"><img id="heroImage" src="" alt="Colección Malu Candle"><div class="hero-meta"><span>Bogotá · Colombia</span><span>Cera / Color / Aroma</span></div></div><div class="hero-copy"><span class="eyebrow">Nueva colección · formas esenciales</span><h1>Objetos<br>para <em>encender.</em></h1><p>Una vela no solo ilumina. Guarda una forma, un aroma y el momento en que la elegiste.</p><a class="button button-outline" href="#comprar">Conoce la colección ↘</a></div><div class="coordinates">06°14'N<br>75°34'W</div></section>
+<section class="section collection" id="comprar"><div class="section-head"><div><span class="eyebrow">01 / selección actual</span><h2>Formas que<br>permanecen.</h2></div><span class="section-note">107 piezas · COP</span></div><div class="shop-toolbar"><div class="filter-pills" id="filterPills"></div><label class="search-field"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar por forma, ocasión o categoría"></label></div><div class="product-grid" id="productGrid"></div></section>
+<section class="section lines" id="colecciones"><span class="eyebrow">02 / líneas Malu</span><div class="line-list"><a href="#comprar" data-category-link="feliz cumple"><b>01</b><strong>Celebrar</strong><small>cumpleaños · momentos · regalos</small><i>↗</i></a><a href="#comprar" data-category-link="decora tus espacios"><b>02</b><strong>Habitar</strong><small>hogar · aromas · decoración</small><i>↗</i></a><a href="#comprar" data-category-link="recordatorios"><b>03</b><strong>Recordar</strong><small>mascotas · recordatorios · símbolos</small><i>↗</i></a><a href="#comprar" data-category-link="enciende la navidad"><b>04</b><strong>Temporada</strong><small>navidad · flores · ediciones</small><i>↗</i></a></div></section>
+<section class="process" id="proceso"><div class="process-image"><img id="processImage" src="" alt="Vela artesanal Malu Candle"></div><div class="process-copy"><span class="eyebrow">03 / hecho por Malu</span><h2>Lo que hacemos,<br><em>se puede sentir.</em></h2><p>Cada pieza se vierte, se colorea y se termina a mano. Por eso cada vela tiene pequeñas diferencias: la señal de que no salió de una línea, sino de un taller.</p><div class="checks"><div><b>01</b><span>Hecha a mano<small>Cada pieza es única</small></span></div><div><b>02</b><span>Revisada antes de salir<small>Forma, acabado y aroma</small></span></div><div><b>03</b><span>Preparada bajo pedido<small>Con cuidado para regalar</small></span></div></div></div></section>
+<section class="section story" id="nosotros"><span class="eyebrow">04 / nuestra visión</span><h2>Un mundo de velas<br><em>artesanales.</em></h2><p>Malu Candle crea piezas que combinan diseño, aromas y detalles cuidadosamente elaborados para acompañar momentos especiales y fortalecer la conexión entre las personas.</p><a href="#personaliza" class="text-link">Conoce nuestra historia ↗</a></section>
+<section class="section service" id="servicio"><span class="eyebrow">05 / cuidado y servicio</span><div><h2>Desde la elección<br>hasta el último encendido.</h2><div class="service-links"><a href="#personaliza">Personaliza tu vela <i>↗</i></a><a href="https://wa.me/573016231736">Habla con Malu por WhatsApp <i>↗</i></a><a href="#nosotros">Envíos, cambios y cuidados <i>↗</i></a></div></div></section>
+<section class="newsletter" id="personaliza"><span class="eyebrow">06 / mantente cerca</span><h2>Historias, aromas<br>y nuevas formas.</h2><p>Recibe novedades, colecciones y un 5% de descuento en tu primera compra.</p><form><input type="email" placeholder="tu email" aria-label="Tu email"><button type="button">Suscribirme ↗</button></form></section>
+</main>
+<aside class="cart-drawer" id="cartDrawer" aria-hidden="true"><div class="cart-header"><h2>Carrito</h2><button id="closeCart" aria-label="Cerrar carrito">×</button></div><div id="cartItems" class="cart-items"></div><div class="cart-summary"><span>Total estimado</span><strong id="cartTotal">$0 COP</strong><button class="button button-yellow" id="checkoutButton" disabled>Ir a pagar</button></div></aside><div class="drawer-backdrop" id="drawerBackdrop"></div>
+<div class="product-modal" id="productModal" aria-hidden="true"><div class="product-modal-card" role="dialog" aria-modal="true" aria-labelledby="detailName"><button class="modal-close" id="closeProduct" aria-label="Cerrar detalle">×</button><div class="detail-media"><img id="detailImage" src="" alt=""></div><div class="detail-copy"><span class="eyebrow" id="detailCategory">Colección Malu</span><h2 id="detailName"></h2><div class="detail-price" id="detailPrice"></div><p id="detailDescription"></p><small class="detail-meta" id="detailAvailability">Disponible</small><label for="detailFragrance">Fragancia *</label><select id="detailFragrance"><option>Vainilla</option><option>Frutos rojos</option><option>Lavanda</option><option>Sin fragancia</option></select><label for="detailColor">Color personalizado (opcional)</label><input id="detailColor" maxlength="500" placeholder="Indica qué colores quieres"><div class="detail-quantity"><button id="decreaseQty">−</button><output id="detailQty">1</output><button id="increaseQty">+</button></div><button class="button button-yellow detail-add" id="detailAdd">Añadir al carrito</button></div></div></div>
+<a class="whatsapp" href="https://wa.me/573016231736" aria-label="WhatsApp">◔</a><footer><span>MALU CANDLE · COLOMBIA</span><span>Instagram · WhatsApp · Contacto</span><a href="mailto:malu.candles.col@gmail.com">malu.candles.col@gmail.com ↗</a></footer><script src="./app.js" defer></script>
+</body></html>
