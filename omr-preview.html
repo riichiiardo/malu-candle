@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Malu Candle — OMR-inspired preview</title>
+  <link rel="stylesheet" href="./omr-preview.css" />
+</head>
+<body>
+  <div class="preview-note">Prueba visual · dirección editorial inspirada en OMR Beauty</div>
+  <header class="omr-header">
+    <button class="menu-button" aria-label="Abrir menú">☰</button>
+    <nav class="category-nav">
+      <a href="#colecciones">celebra</a><a href="#colecciones">decora</a><a href="#colecciones">regala</a><a href="#colecciones">personaliza</a>
+    </nav>
+    <a class="wordmark" href="./omr-preview.html">Malu Candle</a>
+    <nav class="utility-nav"><a href="#historia">historia</a><a href="#newsletter">suscríbete</a><a href="#shop">carrito (0)</a></nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="kicker">Malu Candle · Hecho en Colombia</p>
+        <h1>Enciende<br><em>lo que sientes.</em></h1>
+        <p class="hero-intro">Velas artesanales para celebrar, regalar y convertir cualquier espacio en un recuerdo.</p>
+        <a class="arrow-link" href="#shop">explorar la colección <span>↘</span></a>
+      </div>
+      <div class="hero-visual"><img id="heroImage" alt="Vela artesanal Malu Candle" /><div class="image-label">colección / formas que cuentan</div></div>
+    </section>
+
+    <section class="feature" id="historia">
+      <div class="feature-image"><img id="featureImage" alt="" /></div>
+      <div class="feature-copy">
+        <p class="kicker">vela destacada</p><h2 id="featureName"></h2><p class="price" id="featurePrice"></p>
+        <p id="featureDescription"></p>
+        <div class="notes"><span>salida <b>floral · luminosa</b></span><span>corazón <b>suave · artesanal</b></span><span>fondo <b>cálido · memorable</b></span></div>
+        <div class="buy-row"><button id="featureAdd">añadir al carrito</button><a id="featureMore" href="#">ver detalle ↗</a></div>
+      </div>
+    </section>
+
+    <section class="collection" id="shop">
+      <div class="section-top"><p class="kicker">selección Malu</p><a href="./index.html#comprar">ver todo ↗</a></div>
+      <div class="product-grid" id="productGrid"></div>
+    </section>
+
+    <section class="manifesto" id="colecciones"><p>Una forma, un aroma,<br><em>un momento para recordar.</em></p><div><span>01 / celebrar</span><span>02 / habitar</span><span>03 / regalar</span></div></section>
+
+    <section class="newsletter" id="newsletter"><p class="kicker">mantente cerca</p><h2>Historias, aromas<br>y nuevas formas.</h2><form><input type="email" placeholder="tu email" aria-label="Tu email" /><button type="button">suscribirme ↗</button></form></section>
+  </main>
+
+  <footer><span>Malu Candle</span><span>un mundo de velas artesanales</span><span>Colombia · COP</span><a href="./index.html">volver a la tienda completa ↗</a></footer>
+  <script src="./omr-preview.js" defer></script>
+</body>
+</html>
